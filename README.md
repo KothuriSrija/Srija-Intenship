@@ -6,7 +6,7 @@ This repository contains info about SRM -Intenship
 
 ### Web Design and Web Development Introduction
 
-*web design is nothing but creation of a website based on requirement
+*web design is nothing but creation of a website based on requirement*
 
 **Web development is maintaining the website**
 
