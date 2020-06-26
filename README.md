@@ -5,3 +5,5 @@ This repository contains info about SRM -Intenship
 ## Day 01 : Introduction Part
 
 ### Web Design and Web Development Introduction
+
+*web design is nothing but creation of a website based on requirement
